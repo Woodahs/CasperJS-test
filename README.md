@@ -1,3 +1,6 @@
 # CasperJS test
-Requires PhantomJS, CasperJS and Python installed in your system
-Run each js file as casperjs FILENAME
+
+<ul>
+	<li>Requires PhantomJS, CasperJS and Python installed</li>
+	<li>Run each js file as casperjs FILENAME</li>
+</ul>
